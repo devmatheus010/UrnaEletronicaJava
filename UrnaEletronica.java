@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class UrnaEletronica {
+public class  UrnaEletronica {
 
   private int numeroConvertido = 0, totalVotos = 0,  empate = 0;;
   static int votosNulos = 0;
@@ -49,7 +49,6 @@ public class UrnaEletronica {
       }
     
     }  
-    
 }
 
   public void mostarResultado() {

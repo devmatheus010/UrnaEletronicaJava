@@ -1,4 +1,4 @@
-public class Candidatos {
+public class  Candidatos {
     private String _nome, _numero;
     private int _votos;
     public int incrementarVotos;
